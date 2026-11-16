@@ -61,7 +61,7 @@ The `.env` file and virtual environment are excluded from version control.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Sonu-M10/ai-study-coach.git
 cd ai-study-coach
 ```
 
